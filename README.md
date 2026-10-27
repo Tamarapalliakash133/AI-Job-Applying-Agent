@@ -1,0 +1,1 @@
+end to end job applying agent that works continously for you by parsing you resume.
